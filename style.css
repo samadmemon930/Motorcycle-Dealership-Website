@@ -123,7 +123,6 @@ input {
   display: inline-block;
 }
 
-
 .navbar-nav .nav-link {
   color: #bebebe !important;
   font-weight: 700;
@@ -367,10 +366,10 @@ input {
   #about-main .container,
   #services .container,
   #mission .container,
-  #motorcylelist-main .container, 
+  #motorcylelist-main .container,
   #blog-main .container,
   #servicecenter-main .container,
-  #services-cards .container, 
+  #services-cards .container,
   #shedule-services .container,
   #testimonial-main .container {
     max-width: 100% !important;
@@ -403,7 +402,7 @@ input {
 
 /* ===== RESPONSIVE STYLES ===== */
 @media (max-width: 991px) {
-  
+
   .navbar-nav {
     background-color: #2f2e2e;
   }
